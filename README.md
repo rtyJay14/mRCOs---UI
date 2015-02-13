@@ -1,9 +1,9 @@
 # mRCOs---UI
 mRCOs - UI v1.00
 
-###droidparts-2.6.6
-###appcompat-v7
-###wizardpager
+###<b>droidparts-2.6.6</b>
+###<b>appcompat-v7</b>
+###<b>wizardpager</b>
 
 ###https://github.com/rudsonlive/NavigationDrawer-MaterialDesign
 
